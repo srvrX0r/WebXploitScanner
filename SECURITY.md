@@ -20,4 +20,4 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
-If reporting any problem or vulnerabilities, please email servix9r@wearehackerone.com
+If reporting any problem or vulnerabilities, please email serviX0r@wearehackerone.com
